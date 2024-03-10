@@ -1,0 +1,13 @@
+name: ${project.name}
+main: primalcat.tempusskins.TempusSkins
+version: ${project.version}
+description: ${project.description}
+website: https://skinsrestorer.net/
+author: PrimalCat
+authors: [ "PrimalCat" ]
+api-version: 1.13
+depend: [ "SkinsRestorer" ]
+
+commands:
+  tskins:
+    usage: /tskins
